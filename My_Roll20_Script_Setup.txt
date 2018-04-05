@@ -66,7 +66,7 @@ My philosophy on scripts is that I can add as many as I want, but:
   Allows me to set a simple turn timer. My version plays a sound when the time is up. (My version requires a sound effect called 
   "Ding" and the Roll20AM script)
     - Code: https://goo.gl/gNANZi
-    - My version: https://goo.gl/XRjzm9
+    - My version: https://goo.gl/uNyD2t
   
 - Table Export (And Import)
   Allows me to import any table I can copy paste into a spreadsheet into roll20, and allows me to export and import tables between
@@ -87,12 +87,11 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Hit Dice Helper
   Automatically decrements a hit dice and adds appropriate amount of hit points when a hit die is rolled.
     - Forum: https://goo.gl/GLSRNW
-    - Code: https://goo.gl/xBqVaY
+    - Code: https://goo.gl/MfQCXS
 
 - Blind Roll
   Allows players to roll in a way that whispers me the result but hides it from them.
     - Forum: https://goo.gl/FBBmEU
-    - Code: https://goo.gl/EcyhPF
     
 - GM Roll Announcer
   Announces "GM rolls some dice mysteriously" when the GM makes any gm roll, including those from NPC sheets.
