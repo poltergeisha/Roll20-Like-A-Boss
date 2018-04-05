@@ -65,7 +65,7 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Turn Timer
   Allows me to set a simple turn timer. My version plays a sound when the time is up. (My version requires a sound effect called 
   "Ding" and the Roll20AM script)
-    - Github: https://goo.gl/gNANZi
+    - Code: https://goo.gl/gNANZi
     - My version: https://goo.gl/XRjzm9
   
 - Table Export (And Import)
@@ -73,7 +73,7 @@ My philosophy on scripts is that I can add as many as I want, but:
   campaigns more easily.
     - Forum: https://goo.gl/WVQ1v4
     - Wiki: https://goo.gl/pq6NFh
-    - Github: https://goo.gl/jUSWdU
+    - Code: https://goo.gl/jUSWdU
     - Spreadsheet: https://goo.gl/AZfesE
     
 - Languages
@@ -82,17 +82,63 @@ My philosophy on scripts is that I can add as many as I want, but:
   draconic on their sheet.
     - Forum: https://goo.gl/eHURRd
     - Wiki: https://goo.gl/mMqWvo
-    - Github: https://goo.gl/Ys6h5a
+    - Code: https://goo.gl/Ys6h5a
     
 - Hit Dice Helper
   Automatically decrements a hit dice and adds appropriate amount of hit points when a hit die is rolled.
     - Forum: https://goo.gl/GLSRNW
-    - Github: https://goo.gl/xBqVaY
+    - Code: https://goo.gl/xBqVaY
 
 - Blind Roll
   Allows players to roll in a way that whispers me the result but hides it from them.
     - Forum: https://goo.gl/FBBmEU
-    - Github: https://goo.gl/EcyhPF
+    - Code: https://goo.gl/EcyhPF
     
 - GM Roll Announcer
-  
+  Announces "GM rolls some dice mysteriously" when the GM makes any gm roll, including those from NPC sheets.
+    - Forum: https://goo.gl/BRkud4
+    - Code: https://goo.gl/78osfV
+    
+- Turn Marker
+  Announces each new turn (with clickable image in chat to shift-ping to current turn) and counts rounds and allows players to end their
+  own turn.  In my version I removed the "so-and-so's turn is done" bit and make the background of the turn announcer black.
+    - Forum: https://goo.gl/hDAUVY
+    - Wiki: https://goo.gl/Q459jG
+    - Code: https://goo.gl/UCHyLX
+    - My version: https://goo.gl/mgQgUB
+    
+- Token Macro-Book Generator
+  Generates token macros that whisper menus of options to the PC (attacks, spells, other.) Very useful for players with crappy
+  computers that can't open and close the character sheet all the time.
+    - Forum: https://goo.gl/E5Gv5P
+    - Code: https://goo.gl/qLJthq
+    
+- 5e OGL NPC Action Damage Autoroller
+  Autoroles damage from NPC abilities that list a damage die but don't role it (like dragon breath weapon.)
+    - Forum: https://goo.gl/tzdEt7
+    - Code: https://goo.gl/rc2r7E
+
+- Tiny Token Center-er
+  Centers tiny tokens.
+    - Forum: https://goo.gl/JgAKGs
+    
+- Concentration Reminder
+  Reminds a spellcaster to make a concentration check whenever they take damage as long as they have a particular status marker to
+  denote that they are concentrating (which you can easily change in the script, see names here: https://goo.gl/6P1seZ) I have no idea 
+  where I found this so no forum link. :[
+    - Code: https://goo.gl/4UoSqV
+
+- Calendar (Harptos, Eberron, modern)
+  This is a really nice way to keep track of days in game. No idea where I found it though. 
+    - Code: https://goo.gl/o9j3mC
+    
+- Automatic Death Markesr
+  I made this script to automatically turn tokens red and give them a stopwatch icon when they're at 0, and turn them white with the 
+  big red x when they're at -1 or lower.
+    - Code: https://goo.gl/cDGVqG
+    
+- Recursive Tables
+  Lets you roll on tables that roll on tables. Tableception. I use this to handle wildmagic and chaos bolt for my wild magic sorcerer,
+  but the possibilities are endless. Also it lets you format table rolls nicer.
+    - Forum: https://goo.gl/L6xcgn
+    - Code: https://goo.gl/AHNtBv
