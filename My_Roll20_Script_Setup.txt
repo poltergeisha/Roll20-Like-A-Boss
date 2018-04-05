@@ -1,4 +1,4 @@
-You can find the macros I use with these scripts here: 
+You can find the macros I use with these scripts here: https://gist.github.com/poltergeisha/e37cfa3965339a4c1cde92304329aa08
 
 ### Intro ###
 I use the OGL sheet because of 5eTools compatibility and stability. The Shaped sheet has a lot of nice features, but it breaks a lot.
