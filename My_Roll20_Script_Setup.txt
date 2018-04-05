@@ -124,7 +124,8 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Concentration Reminder
   Reminds a spellcaster to make a concentration check whenever they take damage as long as they have a particular status marker to
   denote that they are concentrating (which you can easily change in the script, see names here: https://goo.gl/6P1seZ) I have no idea 
-  where I found this so no forum link. :[
+  where I found this so no forum link. :[ This assumes BAR 3 is the health bar. If you use Bar 1 you'll need to edit it to reference
+  bar 1. (Bar 3 is clearly the superior bar though lol.)
     - Code: https://goo.gl/4UoSqV
 
 - Calendar (Harptos, Eberron, modern)
@@ -133,7 +134,8 @@ My philosophy on scripts is that I can add as many as I want, but:
     
 - Automatic Death Markesr
   I made this script to automatically turn tokens red and give them a stopwatch icon when they're at 0, and turn them white with the 
-  big red x when they're at -1 or lower.
+  big red x when they're at -1 or lower. This assumes BAR 3 is the health bar. If you use Bar 1 you'll need to edit it to reference
+  bar 1. (Bar 3 is clearly the superior bar though lol.)
     - Code: https://goo.gl/cDGVqG
     
 - Recursive Tables
