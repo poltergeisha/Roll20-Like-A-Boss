@@ -152,3 +152,4 @@ My philosophy on scripts is that I can add as many as I want, but:
   in the script to match if you want to use my status marker macro.
     - Forum: https://bit.ly/2GKiYJ3
     - Code: https://bit.ly/2qjY4q5
+    - My version (works with my status marker macro:) https://gist.github.com/poltergeisha/48c82308e13e75328849f1763e463a85
