@@ -151,5 +151,5 @@ My philosophy on scripts is that I can add as many as I want, but:
   Boops the description of a condition to the chat when the appropriate status marker is set. You will need to edit the status markers
   in the script to match if you want to use my status marker macro.
     - Forum: https://bit.ly/2GKiYJ3
-    - Code: https://bit.ly/2qjY4q5
+    - Code: https://bit.ly/2IIsid8
     - My version (works with my status marker macro:) https://gist.github.com/poltergeisha/48c82308e13e75328849f1763e463a85
