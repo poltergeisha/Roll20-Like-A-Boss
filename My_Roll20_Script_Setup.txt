@@ -101,7 +101,7 @@ My philosophy on scripts is that I can add as many as I want, but:
     - Forum: https://goo.gl/BRkud4
     - Code: https://goo.gl/78osfV
     
-- Turn Marker
+- Turn Marker (DEPRECATED - REPLACED WITH ROBIN KUEPER'S COMBAT TRACKER)
   Announces each new turn (with clickable image in chat to shift-ping to current turn) and counts rounds and allows players to end their
   own turn.  In my version I removed the "so-and-so's turn is done" bit and make the background of the turn announcer black.
     - Forum: https://goo.gl/hDAUVY
@@ -123,33 +123,18 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Tiny Token Center-er
   Centers tiny tokens.
     - Forum: https://goo.gl/JgAKGs
-    
-- Concentration Reminder
-  Reminds a spellcaster to make a concentration check whenever they take damage as long as they have a particular status marker to
-  denote that they are concentrating (which you can easily change in the script, see names here: https://goo.gl/6P1seZ) I have no idea 
-  where I found this so no forum link. :[ This assumes BAR 3 is the health bar. If you use Bar 1 you'll need to edit it to reference
-  bar 1. (Bar 3 is clearly the superior bar though lol.)
-    - Code: https://goo.gl/4UoSqV
 
 - Calendar (Harptos, Eberron, modern)
   This is a really nice way to keep track of days in game. No idea where I found it though. 
     - Code: https://goo.gl/o9j3mC
-    
-- Automatic Death Markesr
-  I made this script to automatically turn tokens red and give them a stopwatch icon when they're at 0, and turn them white with the 
-  big red x when they're at -1 or lower. This assumes BAR 3 is the health bar. If you use Bar 1 you'll need to edit it to reference
-  bar 1. (Bar 3 is clearly the superior bar though lol.)
-    - Code: https://goo.gl/cDGVqG
     
 - Recursive Tables
   Lets you roll on tables that roll on tables. Tableception. I use this to handle wildmagic and chaos bolt for my wild magic sorcerer,
   but the possibilities are endless. Also it lets you format table rolls nicer.
     - Forum: https://goo.gl/L6xcgn
     - Code: https://goo.gl/AHNtBv
-    
-- Status Info
-  Boops the description of a condition to the chat when the appropriate status marker is set. You will need to edit the status markers
-  in the script to match if you want to use my status marker macro.
-    - Forum: https://bit.ly/2GKiYJ3
-    - Code: https://bit.ly/2IIsid8
-    - My version (works with my status marker macro:) https://gist.github.com/poltergeisha/48c82308e13e75328849f1763e463a85
+
+- Robin Kueper's Scripts
+  I use basically all of these very high quality scripts! Robin has created the best Combat Tracker, Concentration Reminder, Status
+  effect tracker, death marker, and more!
+    - Find them all here: https://github.com/RobinKuiper/Roll20APIScripts
