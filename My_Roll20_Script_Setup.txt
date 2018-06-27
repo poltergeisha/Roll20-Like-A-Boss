@@ -97,14 +97,6 @@ My philosophy on scripts is that I can add as many as I want, but:
     - Forum: https://goo.gl/BRkud4
     - Code: https://goo.gl/78osfV
     
-- Turn Marker (DEPRECATED - REPLACED WITH ROBIN KUEPER'S COMBAT TRACKER)
-  Announces each new turn (with clickable image in chat to shift-ping to current turn) and counts rounds and allows players to end their
-  own turn.  In my version I removed the "so-and-so's turn is done" bit and make the background of the turn announcer black.
-    - Forum: https://goo.gl/hDAUVY
-    - Wiki: https://goo.gl/Q459jG
-    - Code: https://goo.gl/UCHyLX
-    - My version: https://goo.gl/mgQgUB
-    
 - Token Macro-Book Generator
   Generates token macros that whisper menus of options to the PC (attacks, spells, other.) Very useful for players with crappy
   computers that can't open and close the character sheet all the time.
