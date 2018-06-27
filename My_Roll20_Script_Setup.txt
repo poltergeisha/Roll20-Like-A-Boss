@@ -57,6 +57,9 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Marching Order
   Allows me to set a group of tokens to follow one token. Really useful for exploring dungeons without having to constantly yell at
   everyone to move their tokens faster.
+  
+- Carry Tokens
+  Allows tokens to ride mounts or carry torches.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 #### From External Sources ###
