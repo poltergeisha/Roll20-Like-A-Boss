@@ -44,10 +44,6 @@ My philosophy on scripts is that I can add as many as I want, but:
 - Bump
   Lets me move tokens while they're hidden on the GM layer, and move them between GM and token layer easily.
   
-- GroupInitiative
-  Lets me roll group initiative for a group of selected tokens with a nice looking format and lets me choose to roll mean, highest, 
-  lowest, or individual. I have a macro to make these choices easy.
-  
 - GroupCheck
   Lets me make group saves, checks, and skill checks by selecting groups of tokens. Offers choice of whisper or public and looks nice.
   
@@ -121,8 +117,17 @@ My philosophy on scripts is that I can add as many as I want, but:
     - Code: https://goo.gl/rc2r7E
 
 - Tiny Token Center-er
-  Centers tiny tokens.
+  Centers tiny tokens. Warning: Don't use with hex maps.
     - Forum: https://goo.gl/JgAKGs
+    
+- Flight
+  Applies the fluffy-wing marker to tokens multiple times, each time representing a number in the number of feet you enter. So 
+  you can mark exact amounts of feet.
+    - Wiki: https://wiki.roll20.net/Script:Flight
+    
+- GMSheet
+  Lets you select a group of tokens and see all their stats together, like a party sheet.
+    - Forum: https://tinyurl.com/ya4tpmyo
 
 - Calendar (Harptos, Eberron, modern)
   This is a really nice way to keep track of days in game. No idea where I found it though. 
@@ -133,8 +138,12 @@ My philosophy on scripts is that I can add as many as I want, but:
   but the possibilities are endless. Also it lets you format table rolls nicer.
     - Forum: https://goo.gl/L6xcgn
     - Code: https://goo.gl/AHNtBv
+    
+- Limit Hp Min/Max
+  This script snaps HP to the minimum or maximum when you go below/above it to keep the bars nice and clean.
+    - Code: https://gist.github.com/poltergeisha/50e4201f0afe96ad13690468ca381629
 
 - Robin Kueper's Scripts
   I use basically all of these very high quality scripts! Robin has created the best Combat Tracker, Concentration Reminder, Status
-  effect tracker, death marker, and more!
+  effect tracker, death marker, treasure generator, and more!
     - Find them all here: https://github.com/RobinKuiper/Roll20APIScripts
