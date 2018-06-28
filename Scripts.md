@@ -146,11 +146,11 @@ Lets you select a group of tokens and see all their stats together, like a party
 
 - Forum: https://tinyurl.com/ya4tpmyo
 
-## Calendar (Harptos, Eberron, modern)
+## Calendar
 
 This is a really nice way to keep track of days in game. No idea where I found it though. 
 
-- Code: https://goo.gl/o9j3mC
+- Code: https://github.com/Ciorstaidh/Roll20-API
 
 ## Recursive Tables
 
