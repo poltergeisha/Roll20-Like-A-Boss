@@ -1,5 +1,3 @@
-You can find all the scripts that make these work here: https://gist.github.com/poltergeisha/80076820df3b196520fd75f7cda07ac5
-
 I also have a set of macros that I use with my custom shopping rules. You can find those here: https://gist.github.com/poltergeisha/41fb953a21c32323b66f6beb0bce2c21
 
 ----------------------------------------------------------------------------------------------------------------------------------------
