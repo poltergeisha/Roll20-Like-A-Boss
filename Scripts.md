@@ -1,6 +1,6 @@
 # Intro
 
-I use the OGL sheet because of 5eTools compatibility and stability. The Shaped sheet has a lot of nice features, but it breaks a lot.
+I use the OGL sheet because of stability. The Shaped sheet has a lot of nice features, but it breaks a lot.
 
 My philosophy on scripts is that I can add as many as I want, but:
 
