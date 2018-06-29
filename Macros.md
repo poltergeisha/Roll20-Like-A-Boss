@@ -274,7 +274,7 @@ the remaining targets (it will still only apply the damage once.)
 *Uses: TokenMod*
 
 ```
-!token-mod --set bar3_value|-[[(?{Damage})/?{Resistance?|No,1|Yes,2}]]  --ids @{target|Target 1|token_id} @{target|Target 2|token_id} @{target|Target 3|token_id} @{target|Target 4|token_id} @{target|Target 5|token_id}
+!token-mod --set bar3_value|-[[(?{Damage})/?{Resistance?|No,1|Yes,2}*?{Vulnerability?|No,1|Yes,2}]]  --ids @{target|Target 1|token_id} @{target|Target 2|token_id} @{target|Target 3|token_id} @{target|Target 4|token_id} @{target|Target 5|token_id}
 /em damaged @{target|Target 1|token_name}, @{target|Target 2|token_name}, @{target|Target 3|token_name}, @{target|Target
 4|token_name}, @{target|Target 5|token_name}.
 ```
