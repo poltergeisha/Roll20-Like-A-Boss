@@ -16,6 +16,7 @@ Macros can take up a lot of space on your macro bar! The easiest way to fix this
 You can also use colors to organize macros by type. Here's what my macro bar looks like: 
 ![My Macro Bar](https://i.imgur.com/lpkw7AJ.png "My Macro Bar")
 
+You can recolor and rename macro buttons by right-clicking them.
 
 ### Bars
 
