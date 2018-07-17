@@ -590,7 +590,7 @@ Shortens talktomyself
 Whisper to a target token
 
 ```
-/emas @{selected|token_name} speaks low.
+/em @{selected|token_name} speaks low.
 /w @{target|token_name} ?{"What"|um}
 ```
 
